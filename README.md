@@ -1,8 +1,8 @@
 # Human_detection
 
-
+ -------------
 sudo apt update
-
+ -------------
 sudo apt install build-essential
 
 
